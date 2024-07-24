@@ -1,0 +1,4 @@
+db.properties
+temp.tmp
+private/
+*.tmp
